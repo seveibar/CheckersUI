@@ -2,6 +2,8 @@
 
 This is a simple library for using creating a checkers board in a browser
 
+![Example Checkers Board](https://raw.githubusercontent.com/seveibar/CheckersUI/master/exampleboard.png)
+
 ## Usage
 
 See the index.html for an example.
